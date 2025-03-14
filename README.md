@@ -6,3 +6,4 @@
 - 맞출때까지 이를 반복한다.
 
 ## 예시
+<img src="https://github.com/ohdyo/llm_game/blob/main/image.png"/>
